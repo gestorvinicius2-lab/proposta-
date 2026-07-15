@@ -1,0 +1,6 @@
+{
+  "name": "Proposta de Tráfego Pago",
+  "description": "Proposta comercial interativa e personalizada para aceleração estratégica com tráfego pago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
