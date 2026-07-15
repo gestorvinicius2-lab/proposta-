@@ -22,7 +22,7 @@ export default function App() {
   const [state, setState] = useState<ProposalState>({
     clientName: "Edson",
     clientNiche: "custom",
-    gestorName: "Vinícius",
+    gestorName: "Gestor Vinícius",
     gestorEmail: "gestorvinicius2@gmail.com", // Personalized based on user email metadata
     gestorPhone: "(11) 99999-9999",
     gestorFee: 3000,
